@@ -56,7 +56,7 @@ flowchart TD
     E -->|Realtime Updates| C
 ```
 
-![App Architecture]()
+
 
 ##  SCREENSHOTS
 ![Home Screen](screenshots/home.jpeg)
