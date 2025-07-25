@@ -59,7 +59,7 @@ flowchart TD
 ![App Architecture](architecture.png)
 
 ## Demo Video
-[Watch the demo on Loom](https://www.loom.com/) <!-- Replace with your actual Loom video link -->
+[Watch the demo](https://drive.google.com/file/d/1Z1ljUUCaqxvUGHxi2g3cHx5XuLs67-XK/view?usp=drivesdk) <!-- Replace with your actual Loom video link -->
 
 ## Assumptions
 - The app assumes the user has a Google account for authentication.
