@@ -58,6 +58,10 @@ flowchart TD
 
 ![App Architecture]()
 
+##  SCREENSHOTS
+![Home Screen](screenshots/home.png)
+![Login](screenshots/login.png)
+
 ## Demo Video
 [Watch the demo](https://drive.google.com/file/d/1Z1ljUUCaqxvUGHxi2g3cHx5XuLs67-XK/view?usp=drivesdk) <!-- Replace with your actual Loom video link -->
 
