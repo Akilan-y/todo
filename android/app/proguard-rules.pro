@@ -1,0 +1,7 @@
+-keep class com.dexterous.flutterlocalnotifications.** { *; }
+-keep class com.google.firebase.** { *; }
+-keep class io.flutter.plugins.** { *; }
+-keep class com.android.vending.billing.** { *; }
+-keep class com.onesignal.** { *; }
+-keep class com.tekartik.sqflite.** { *; }
+-keep class org.threeten.bp.** { *; } 
